@@ -1,0 +1,6 @@
+C:\Work\Dev\SharpSolutionNSRenameUtil\src\SharpSolutionNSRenameUtil\bin\Release\SharpSolutionNSRenameUtil.XML
+C:\Work\Dev\SharpSolutionNSRenameUtil\src\SharpSolutionNSRenameUtil\bin\Release\SharpSolutionNSRenameUtil.exe
+C:\Work\Dev\SharpSolutionNSRenameUtil\src\SharpSolutionNSRenameUtil\bin\Release\SharpSolutionNSRenameUtil.pdb
+C:\Work\Dev\SharpSolutionNSRenameUtil\src\SharpSolutionNSRenameUtil\obj\x86\Release\SharpSolutionNSRenameUtil.fsprojResolveAssemblyReference.cache
+C:\Work\Dev\SharpSolutionNSRenameUtil\src\SharpSolutionNSRenameUtil\obj\x86\Release\SharpSolutionNSRenameUtil.exe
+C:\Work\Dev\SharpSolutionNSRenameUtil\src\SharpSolutionNSRenameUtil\obj\x86\Release\SharpSolutionNSRenameUtil.pdb
